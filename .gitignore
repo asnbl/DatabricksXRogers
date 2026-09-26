@@ -1,0 +1,8 @@
+.DS_Store
+.env
+.env.*
+
+# Only TEAM-BRIEF.md and provided_datasets/ are meant for this repo
+/scripts/
+/databricks/
+/analysis_outputs/
